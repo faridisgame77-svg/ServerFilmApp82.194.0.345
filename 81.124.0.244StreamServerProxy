@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-url="https://avatars.mds.yandex.net/i?id=7198fc4eb31cfe71eef4ed87988ff9967ea30c43-5274396-images-thumbs&n=13", Eşref Rüya 47 HD
 https://video.twimg.com/amplify_video/2064833808415764480/pl/JPXlK8vcaGGFyeEb.m3u8?tag=27&variant_version=1
-
+#EXTINF:-, Kanal D HD 1080P
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8hls95knjyr0&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3

@@ -1,0 +1,50 @@
+#EXTINF:-, AzTV
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, Xəzər TV
+https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, ITV TV
+https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
+#EXTINF:-, Baku TV
+https://str.yodacdn.net/bakutv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, Idman TV
+https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, Biznes TV
+https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, NTV TV
+https://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, Real TV
+https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, Qafqaz TV
+https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, ATV TV
+https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, ARB24 TV
+https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, APA TV
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-, TMB TR
+https://str.yodacdn.net/tmbtr/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, TMB AZ
+https://str.yodacdn.net/tmbaz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, ARB TV
+https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, Kanal S TV
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-, EL TV
+https://str.yodacdn.net/eltv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, ARB Günəş TV
+https://str.yodacdn.net/arbgunesh/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, CBC TV
+https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, Mədəniyyət TV
+https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, Space TV
+https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, VOSTOK TV
+https://str.yodacdn.net/tmb/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, MTV TV
+https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, VIP TV
+https://str.yodacdn.net/vip/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-, CBC Sport TV
+https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8

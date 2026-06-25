@@ -1,0 +1,24 @@
+#EXTINF:-, BS STARS
+https://live.st15.lol/bsstars/index.m3u8
+#EXTINF:-, SINEMA TV
+https://live.st15.lol/sinema/index.m3u8
+#EXTINF:-, S SPORT 1
+https://live.st15.lol/ss11/index.m3u8
+#EXTINF:-, SINEMA AKSIYON 
+https://live.st15.lol/sinemaaksiyon/index.m3u8
+#EXTIMF:-, S SPORT 2
+https://live.st15.lol/ss2/index.m3u8
+#EXTINF:-, SMART S 1
+https://live.st15.lol/smart1/index.m3u8
+#EXTINF:-, SMART S 2
+https://live.st15.lol/smart2/index.m3u8
+#EXTINF:-, E SPORT 1
+https://live.st15.lol/euro11/index.m3u8
+#EXTINF:-, E SPORT 2
+https://live.st15.lol/euro22/index.m3u8
+#EXTINF:-, TV 1
+https://live.st15.lol/t1/index.m3u8
+#EXTINF:-, TV 2
+https://live.st15.lol/t2/index.m3u8
+#EXTINF:-, TV 3
+https://live.st15.lol/t3/index.m3u8

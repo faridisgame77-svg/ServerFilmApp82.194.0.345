@@ -48,6 +48,8 @@ https://live.st15.lol/dmax/index.m3u8
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-, TRT BELGESEL
 https://node1-az-baku-delta.streamy.group/stream/u7w6eefhr4meg7n7m9cij9mhdqbxnh9z9pg6sb7ag9g2rr6z4hpqfy8yesyvbic3zmj2pu4izbc7vdg8wt6gig97ei5iidhbpytyedgxmvqrseimw854h5y4aewp8vm7kme8fshhngdtqk9vur3r72jwx2nf5fn363s8wiuynbzwwrdsmnw4g8nmw2======.m3u8
+#EXTINF:-, TRT ÇOCUK
+https://node1-az-baku-delta.streamy.group/stream/ikdixbmjwzevva3tjj9fyy89d6wts8nzppt79ypkdr3kpjnh9rp7ajsv6qxinpmehk8sb52euc5ai5rfnre3czay5k3ji32jnaf3xpzy47d4n463nfrhzmskt8279nfmquicxkgyhvrn33gm5jj2ijthdkyy2fg4yzvt9e45zda6qpy6d2t7ddgg.m3u8
 #EXTINF:-, Star TV
 https://live.st15.lol/startv/index.m3u8
 #EXTINF:-, Kanal D
@@ -101,7 +103,7 @@ https://live.st15.lol/sinema1001/index.m3u8
 #EXTINF:-, ATV AZAD TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-, ARB TV AZ
-http://149.255.152.199/arbhd.m3u8?bandwidth=6096&e=1782827741&playlistlength=5&shift=0&sid=coder_62&token=d1722989f6fc7f5967a3dcf423ada2f1&user=37076
+https://node1-az-baku-delta.streamy.group/stream/46ki7x2pttftat9h46tcizb5ytpvhf9ebbrb56huku76wcwrbua2zubyivpfqhkbgypfcinsr35kh6wvnb7xxkyp3f9697iypmd5dcsuc7jjk9pbzjw77tyucqpbxxgnvzkh9k73qvab9dr8g52zxcar5c7s9xpb779tnzrcwy7nyzd9djc4a4un8zmvkhc5bw======.m3u8
 #EXTINF:-,  XEZER TV AZ
 http://149.255.152.199/xazer.m3u8?bandwidth=2096&e=1782827770&playlistlength=5&shift=0&sid=coder_53&token=8e77e9acf6b7900eef31d182cbd80f5d&user=37076
 #EXTINF:-,  KANAL S AZ
@@ -111,11 +113,11 @@ http://149.255.152.199/space.m3u8?bandwidth=6096&e=1782827824&playlistlength=5&s
 #EXTINF:-,  İDMAN TV AZ
 https://node2-az-baku-delta.streamy.group/stream/sdmwuixs7jypjxpkcfgshhjezv9tbnns8675bhmvpqt57cm8aeputjcnbmhphj8dt8siuehdaqbhp3fixxcsywzwc985veif6ucmqxi8fgmw6qam8nqafnz7azmhh5dq5iwix889wncji5udr4udu4m8ysqd9sga8596jkz4imfug2itt7h9p6ue.m3u8
 #EXTINF:-,  AZ TV
-https://str.yodacdn.net/azertv/mono.m3u8?token=eyJpcCI6IjE2Mi41NS4yNDQuOTgiLCJ1YSI6IiIsImV4cCI6MTc4Mjc0NTEwNywianRpIjoiN2NlZWJlMDZhMjMzYzI4MCJ9.5yQlwIyVXPK415/8FFUCLv8WtOWztATAtr0ffnV9rhg=
-#EXTING:-,  İCTİMAİ TV AZ
-http://149.255.152.199/ictimai.m3u8?bandwidth=2096&e=1782827973&playlistlength=5&shift=0&sid=coder_52&token=ee8efad1b9bfc5e3492f0d961f74fdaf&user=37076
+https://node1-az-baku-delta.streamy.group/stream/9fb6mshv5kytgksxu3uqg2yfbbcw9esmm5u8wvh29puvfn47tu4pip3ndxccr5mp7gvsn5x2jmwnkem6ewuimdmip64decppueb9wpfwrqg3e9ch8emhpjcbik422ypcxw9mnpuk25icucidyxd6cvyx755j6fmwk4kidf7u7x7ckw54zprbi9ih.m3u8
+#EXTINF:-,  İCTİMAİ TV AZ
+https://node1-az-baku-delta.streamy.group/stream/6mm9in6j6xbuty57fdrzjcqgukncabvkszad97r52n6mu5sbkb5je8x54miaf87f5qcbhztec2hqyyap3hw3bhfnxkbya8xfkme8smcd8rannfx5wennbhvyfqat89ivyvuvyc3g55r3nz9ffkxe5tbggrpb47s979xwekjrrp2w3nst7bgxfva=.m3u8
 #EXTINF:-,  ARB 24 TV
-http://149.255.152.199/arb24.m3u8?bandwidth=2096&e=1782827998&playlistlength=5&shift=0&sid=coder_51&token=fc70e09ff7dde6d91c2cbd65c6b79037&user=37076
+https://node2-az-baku-delta.streamy.group/stream/hsmkk36ms23f562gjpkdxvrmazb4j4x9atvif3hbcsriqv4vifcztbrwivi5mfxb8aa7c398qnmaawhcawyq55tyu6gqc2petqi87s3zc8ptk2j729tfpgt22v9s6mamdbj7nntnkjiq5deqicuikwfb3sz3x84h5s43k8byw9mejeyt2y93hf8acjqvgvarzv3a====.m3u8
 #EXTINF:-,  CBC SPORT AZ
 https://node1-az-baku-delta.streamy.group/stream/fvbt5ptvbxi7cgb59gviapu4y3errhirt78nb36m3gwm63nawz4xqb2uaq58dcpminkm528g47giv2jbfxgtjsascu4rs3h4qim8gkjhkgyqcakyqaaivaes6qjxsp4etjedt57rnc3me4hzz89xv775fqxu4xmvvag5fd3i27f8arr9kvpeypca2j439hkyaw======.m3u8
 #EXTINF:-,  BAKU TV
@@ -128,12 +130,12 @@ http://149.255.152.199/medeniyet.m3u8?bandwidth=2096&e=1782828245&playlistlength
 http://149.255.152.199/real.m3u8?bandwidth=2096&e=1782828270&playlistlength=5&shift=0&sid=coder_79&token=ef5d78f90e22915afe6f09fef19b5731&user=37076
 #EXTINF:-,  TMB TV AZ
 http://149.255.152.199/tmbtv.m3u8?bandwidth=2128&e=1782828299&playlistlength=5&shift=0&sid=coder_52&token=72dbae6d335f6098769022dd09a5dd61&user=37076
-#EXTINF:-,  KONUL TV
-http://serv25.vintera.tv:8081/restream/konul_tv/chunks.m3u8?nimblesessionid=217831942&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDI2IDI6MDY6MDQgUE0maGFzaF92YWx1ZT10amlOVWVVLzRtU2o5d3VCUFVZaVhnPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:-,  SHOW PLUS TV AZ
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-,  GÜNAZ TV
 https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-, ARB Günəş
+https://node1-az-baku-delta.streamy.group/stream/cj633fut7rkat7g3qywnm9pb2ix94qqj4c7k3qe4vf692cgybmwx9y4m4zm5fwc3sp2rshjytg5pafh3pehzmbfdfi58p3kb56rwhnvib2e3taduux743uwa33j7hp5izf46c6v5acy5gyrybxuwg5k9n9435zcyxy83yzjm35p9pvjb8mjtru895cir9xjd.m3u8
 #EXTINF:-, Viju TV 1000 RU Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-, viju TV1000 action
@@ -172,6 +174,10 @@ https://node1-az-baku-delta.streamy.group/stream/vpyhe9wmihvx3xvtascbfpfut9pt32i
 https://node2-az-baku-delta.streamy.group/stream/ey62cmuw2g8h4kbs6h7vaj4df4vgwmv95wzwxzr7uqiw4xse2eceweby2htybcafvfs925qenipa5pqd8bxgi69umf9yn7qxmzewarpsh8p48v6kyhwe9bvnhbufdjpthv4e9zxzsvqb2npyzzpwh5hs8qe4c98cuc7f7kyqdd2ssaczh6agsmuntina9qzsre======.m3u8
 #EXTINF:-, CBC RUS
 https://node1-az-baku-delta.streamy.group/stream/pbjvawceibemm7kygf4k7ydrdqcbsy4n7qbts4uqnv2zssre7nhp4edspheuc6ywiwmw4eaxp285q52sr6s8pwh4yuxbsvaneicyn9nvbnc7ng9dw547hbyixqiaewfcs87h6aknb8hg8h6na9cuuqueec36juxygq2rgd9dtxrgyrnpz6tn6myh.m3u8
+#EXTINF:-, Мама
+https://node2-az-baku-delta.streamy.group/stream/am7n897tscr39pjxa74nf7b3srjv6dkyegsafmtk3w7pwu9uima6h7rc9uduj3swht6jwhi8kkszywi6f9idfg5a47wcaukx4eqmumxp2vnjqr4ucw8sabz8bw5y5v9qimg7r3f2uwxfkxnhd5k8txnww77xqbtupx52g5vmyf46a3mc7ks8rv5xrks6snu2gn======.m3u8
+#EXTINF:-, TLC
+https://node2-az-baku-delta.streamy.group/stream/yqqgt2rs55ukdiza4x7cugp5knczgddk3zapqwrefkmputunx5459gxxsjm773vkhe6n35bcpwwv5m8ftidr3fmqpe789kyu7ua3dm9n66368g7b92v7fdhjzhr3hizw2paygstbmj7mkzgcijcyawbfnx59fh7pxjmv7grxm6ipy2hfsbmu47qkcf2ktum642ea====.m3u8
 
 
 
